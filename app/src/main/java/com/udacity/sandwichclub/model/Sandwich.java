@@ -38,7 +38,7 @@ public class Sandwich {
         return alsoKnownAs;
     }
 
-    public void setAlsoKnownAs(List<String> alsoKnownAs) {
+    public void setAlsoKnownAs(List <String> alsoKnownAs) {
         this.alsoKnownAs = alsoKnownAs;
     }
 
